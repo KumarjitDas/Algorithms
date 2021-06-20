@@ -19,12 +19,12 @@
 
 ## Description
 
-  I programming journey began a few years ago when I started college. I learned
-  *C*, *Java*, *Python*, other technologies, learned software development,
-  algorithms and data structures throughout my college life. This project has
-  all the algorithms I have ever learned and still learning. It contains the
-  implementations of different algorithms in *Python*, *Java*, and *C*
-  programming languages.
+  My programming journey began a few years ago when I started college. I
+  learned *C*, *Java*, *Python*, other technologies, learned software
+  development, algorithms and data structures throughout my college life. This
+  project has all the algorithms I have ever learned and still learning. It
+  contains the implementations of different algorithms in *Python*, *Java*, and
+  *C* programming languages.
 
   I will continue updating this repository by adding more algorithms.
 
@@ -131,8 +131,8 @@
 ## Usage
 
   There is no specific usage guidelines as this project only contains examples
-  of different algorithms implemented in **Python**, **Java**, and **C**
-  programming languages.
+  of different algorithms implemented in *Python*, *Java*, and *C* programming
+  languages.
 
   Use the examples of this project for references.
 
