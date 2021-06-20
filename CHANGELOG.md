@@ -9,7 +9,6 @@ and this project adheres to
 ## [Unreleased]
 
 - Implementations of algorithms-
-  - Binary search
   - Selection sort
   - Recursion
   - Quick sort
@@ -19,6 +18,23 @@ and this project adheres to
   - Greedy algorithms
   - Dynamic programming
   - K-nearest neighbours
+- Complete the **Binary search** algorithm implementation-
+  - C implementation.
+  - Java implementation.
+
+## [1.0] - 2021-06-21
+
+### Added
+
+- [Algorithms](Algorithms) directory.
+- Binary search algorithm
+  - [Binary-Search](Algorithms\Binary-Search) subdirectory.
+  - Python implementation in [main.py](Algorithms\Binary-Search\main.py)
+
+### Fixed
+
+- Spelling and pronounciation mistake in [Readme](README.md).
+- Used *Italic* instead of **Bold** in programming language names.
 
 ## [0.4] - 2021-06-21
 
@@ -45,7 +61,8 @@ and this project adheres to
 
 - [.gitattributes](.gitattributes) file.
 
-[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v0.4...HEAD
+[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v1.0...HEAD
+[1.0]: https://github.com/KumarjitDas/Algorithms/compare/v0.4...v1.0
 [0.4]: https://github.com/KumarjitDas/Algorithms/compare/v0.3...v0.4
 [0.3]: https://github.com/KumarjitDas/Algorithms/compare/v0.2...v0.3
 [0.2]: https://github.com/KumarjitDas/Algorithms/compare/v0.1...v0.2
