@@ -12,7 +12,7 @@
   - [Roadmap](#roadmap)
   - [Contributing](#contributing)
   - [License](#license)
-  - [Project status](#project-status)
+  - [Project Status](#project-status)
   - [Acknowledgment](#acknowledgment)
   - [Contact](#contact)
   - [Changelog](#changelog)
@@ -176,14 +176,14 @@
   This project is distributed under the **MIT License**. See [LICENSE](LICENSE)
   for more information.
 
-## Project status
+## Project Status
 
   List of algorithms implemented
 
   <!-- implemented: ✔, not implemented: ✖ -->
   | Algorithm name       | Python | Java  | C   |
   | -------------------- | ------ | ----  | --- |
-  | Binary Search        | ✖      | ✖    | ✖   |
+  | Binary Search        | ✔      | ✖    | ✖   |
   | Selection sort       | ✖      | ✖    | ✖   |
   | Recursion            | ✖      | ✖    | ✖   |
   | Quick sort           | ✖      | ✖    | ✖   |
