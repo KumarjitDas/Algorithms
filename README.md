@@ -184,14 +184,14 @@ List of algorithms implemented
 | Algorithm name       | Python | Java  | C   |
 | -------------------- | ------ | ----  | --- |
 | Binary Search        | ✔      | ✖    | ✖   |
-| Selection sort       | ✖      | ✖    | ✖   |
+| Selection Sort       | ✔      | ✖    | ✖   |
 | Recursion            | ✖      | ✖    | ✖   |
-| Quick sort           | ✖      | ✖    | ✖   |
-| Breadth-first search | ✖      | ✖    | ✖   |
-| Dijkstra's algorithm | ✖      | ✖    | ✖   |
-| Greedy algorithms    | ✖      | ✖    | ✖   |
-| Dynamic programming  | ✖      | ✖    | ✖   |
-| K-nearest neighbours | ✖      | ✖    | ✖   |
+| Quick Sort           | ✖      | ✖    | ✖   |
+| Breadth-first Search | ✖      | ✖    | ✖   |
+| Dijkstra's Algorithm | ✖      | ✖    | ✖   |
+| Greedy Algorithms    | ✖      | ✖    | ✖   |
+| Dynamic Programming  | ✖      | ✖    | ✖   |
+| K-nearest Neighbours | ✖      | ✖    | ✖   |
 
 ## Acknowledgment
 
