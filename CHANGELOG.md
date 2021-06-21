@@ -22,6 +22,12 @@ and this project adheres to
   - C implementation.
   - Java implementation.
 
+## [1.2] - 2021-06-21
+
+### Changed
+
+- Indentation in [Readme](README.md)
+
 ## [1.1] - 2021-06-21
 
 ### Fixed
@@ -77,7 +83,8 @@ and this project adheres to
 
 - [.gitattributes](.gitattributes) file
 
-[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v1.1...HEAD
+[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v1.2...HEAD
+[1.2]: https://github.com/KumarjitDas/Algorithms/compare/v1.1...v1.2
 [1.1]: https://github.com/KumarjitDas/Algorithms/compare/v1.0...v1.1
 [1.0]: https://github.com/KumarjitDas/Algorithms/compare/v0.4...v1.0
 [0.4]: https://github.com/KumarjitDas/Algorithms/compare/v0.3...v0.4
