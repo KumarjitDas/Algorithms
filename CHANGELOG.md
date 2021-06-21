@@ -8,8 +8,7 @@ and this project adheres to
 
 ## [Unreleased]
 
-- Implementations of algorithms-
-  - Selection sort
+- Implementations of algorithms
   - Recursion
   - Quick sort
   - Hash tables
@@ -18,9 +17,26 @@ and this project adheres to
   - Greedy algorithms
   - Dynamic programming
   - K-nearest neighbours
-- Complete the **Binary search** algorithm implementation-
-  - C implementation.
-  - Java implementation.
+- Complete the **Binary search** algorithm implementation
+  - C implementation
+  - Java implementation
+- Complete the **Selection sort** algorithm implementation
+  - C implementation
+  - Java implementation
+
+## [2.0] - 2021-06-21
+
+### Added
+
+- Selection sort algorithm
+  - [Selection-Sort](Algorithms/Selection-Sort) subdirectory
+  - Python implementation in [main.py](Algorithms/Selection-Sort/main.py)
+- Selection sort item in **Unreleased** section of [Changelog](CHANGELOG.md)
+
+### Changed
+
+- *Project Status* for [Selection-Sort](Algorithms/Selection-Sort/main.py)
+  implementation in *Python* in [Readme](README.md)
 
 ## [1.2] - 2021-06-21
 
@@ -83,7 +99,8 @@ and this project adheres to
 
 - [.gitattributes](.gitattributes) file
 
-[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v1.2...HEAD
+[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v2.0...HEAD
+[2.0]: https://github.com/KumarjitDas/Algorithms/compare/v1.2...v2.0
 [1.2]: https://github.com/KumarjitDas/Algorithms/compare/v1.1...v1.2
 [1.1]: https://github.com/KumarjitDas/Algorithms/compare/v1.0...v1.1
 [1.0]: https://github.com/KumarjitDas/Algorithms/compare/v0.4...v1.0
