@@ -51,7 +51,7 @@ if __name__ == '__main__':
                                                                                 # -10 to +10
    print("Array:", array)
 
-   print("`{}` is at index: {}".format(3, binary_search(array, 3)))
-   print("`{}` is at index: {}".format(19, binary_search(array, 19)))
-   print("`{}` is at index: {}".format(-7, binary_search(array, -7)))
-   print("`{}` is at index: {}".format(-24, binary_search(array, -24)))
+   print(f"{binary_search(array, 3) = }")
+   print(f"{binary_search(array, 19) = }")
+   print(f"{binary_search(array, -7) = }")
+   print(f"{binary_search(array, -24) = }")
