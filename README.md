@@ -1,6 +1,6 @@
 # Algorithms
 
-  Implementation of different algorithms in *Python*, *Java*, and *C*.
+Implementation of different algorithms in *Python*, *Java*, and *C*.
 
 ## Table of Contents
 
@@ -19,27 +19,27 @@
 
 ## Description
 
-  My programming journey began a few years ago when I started college. I
-  learned *C*, *Java*, *Python*, other technologies, learned software
-  development, algorithms and data structures throughout my college life. This
-  project has all the algorithms I have ever learned and still learning. It
-  contains the implementations of different algorithms in *Python*, *Java*, and
-  *C* programming languages.
+My programming journey began a few years ago when I started college. I
+learned *C*, *Java*, *Python*, other technologies, learned software
+development, algorithms and data structures throughout my college life. This
+project has all the algorithms I have ever learned and still learning. It
+contains the implementations of different algorithms in *Python*, *Java*, and
+*C* programming languages.
 
-  I will continue updating this repository by adding more algorithms.
+I will continue updating this repository by adding more algorithms.
 
-  The list of algorithms implemented till now is given in
-  [Project status](#project-status).
+The list of algorithms implemented till now is given in
+[Project status](#project-status).
 
 ## Installation
 
-  In this project, three different languages have been used to implement
-  different algorithms. You will need a **Python** interpreter, **Java**
-  development environment, and a **C** compiler. In my system (Windows 10), I
-  am using **Python 3.9** interpreter, **Java 1.8** (*Javac version 16*), and
-  *clang* as **C** compiler.
+In this project, three different languages have been used to implement
+different algorithms. You will need a **Python** interpreter, **Java**
+development environment, and a **C** compiler. In my system (Windows 10), I
+am using **Python 3.9** interpreter, **Java 1.8** (*Javac version 16*), and
+*clang* as **C** compiler.
 
-  To get started with this project, download and install the following.
+To get started with this project, download and install the following.
 
 - Download and install **git**
   - If you use *Windows*, then go to [this link](https://git-scm.com/downloads)
@@ -130,25 +130,25 @@
 
 ## Usage
 
-  There is no specific usage guidelines as this project only contains examples
-  of different algorithms implemented in *Python*, *Java*, and *C* programming
-  languages.
+There is no specific usage guidelines as this project only contains examples
+of different algorithms implemented in *Python*, *Java*, and *C* programming
+languages.
 
-  Use the examples of this project for references.
+Use the examples of this project for references.
 
 ## Roadmap
 
-  See the [open issues](https://github.com/KumarjitDas/Algorithms/issues) for a
-  list of proposed algorithms (and known issues).
+See the [open issues](https://github.com/KumarjitDas/Algorithms/issues) for a
+list of proposed algorithms (and known issues).
 
-  The list of algorithms implemented till now is given in
-  [Project status](#project-status).
+The list of algorithms implemented till now is given in
+[Project status](#project-status).
 
 ## Contributing
 
-  Contributions are what make the open source community such an amazing place
-  to be learn, inspire, and create. Any contributions you make are greatly
-  appreciated.
+Contributions are what make the open source community such an amazing place
+to be learn, inspire, and create. Any contributions you make are greatly
+appreciated.
 
 - Fork this Project
 - Create your *Feature Branch*
@@ -173,31 +173,31 @@
 
 ## License
 
-  This project is distributed under the **MIT License**. See [LICENSE](LICENSE)
-  for more information.
+This project is distributed under the **MIT License**. See [LICENSE](LICENSE)
+for more information.
 
 ## Project Status
 
-  List of algorithms implemented
+List of algorithms implemented
 
-  <!-- implemented: ✔, not implemented: ✖ -->
-  | Algorithm name       | Python | Java  | C   |
-  | -------------------- | ------ | ----  | --- |
-  | Binary Search        | ✔      | ✖    | ✖   |
-  | Selection sort       | ✖      | ✖    | ✖   |
-  | Recursion            | ✖      | ✖    | ✖   |
-  | Quick sort           | ✖      | ✖    | ✖   |
-  | Breadth-first search | ✖      | ✖    | ✖   |
-  | Dijkstra's algorithm | ✖      | ✖    | ✖   |
-  | Greedy algorithms    | ✖      | ✖    | ✖   |
-  | Dynamic programming  | ✖      | ✖    | ✖   |
-  | K-nearest neighbours | ✖      | ✖    | ✖   |
+<!-- implemented: ✔, not implemented: ✖ -->
+| Algorithm name       | Python | Java  | C   |
+| -------------------- | ------ | ----  | --- |
+| Binary Search        | ✔      | ✖    | ✖   |
+| Selection sort       | ✖      | ✖    | ✖   |
+| Recursion            | ✖      | ✖    | ✖   |
+| Quick sort           | ✖      | ✖    | ✖   |
+| Breadth-first search | ✖      | ✖    | ✖   |
+| Dijkstra's algorithm | ✖      | ✖    | ✖   |
+| Greedy algorithms    | ✖      | ✖    | ✖   |
+| Dynamic programming  | ✖      | ✖    | ✖   |
+| K-nearest neighbours | ✖      | ✖    | ✖   |
 
 ## Acknowledgment
 
-  I appreciate these websites which helped me to make such good **README**
-  file, and helped me to learn about project versioning and keeping
-  **CHANGELOG**.
+I appreciate these websites which helped me to make such good **README**
+file, and helped me to learn about project versioning and keeping
+**CHANGELOG**.
 
 - [Make a README](https://www.makeareadme.com/)
 - [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
@@ -205,23 +205,23 @@
 
 ## Contact
 
-  Twitter: [@kumarjitdas1999](https://twitter.com/kumarjitdas1999)
+Twitter: [@kumarjitdas1999](https://twitter.com/kumarjitdas1999)
 
-  LinkedIn:
-  [Kumarjit Das | কুমারজিৎ দাস](https://www.linkedin.com/in/kumarjit-das/)
+LinkedIn:
+[Kumarjit Das | কুমারজিৎ দাস](https://www.linkedin.com/in/kumarjit-das/)
 
-  E-mail: [kumarjitdas1999@gmail.com](kumarjitdas1999@gmail.com)
+E-mail: [kumarjitdas1999@gmail.com](kumarjitdas1999@gmail.com)
 
-  Project link:
-  [GitHub-KumarjitDas-Algorithms](https://github.com/KumarjitDas/Algorithms/)
+Project link:
+[GitHub-KumarjitDas-Algorithms](https://github.com/KumarjitDas/Algorithms/)
 
 ## Changelog
 
-  This project uses only **MAJOR** and **MINOR** version numbers for versioning
-  (v*MAJOR.MINOR*). **MAJOR** version number indicates addition of a new
-  algorithm and **MINOR** version number indicates *bug fixes*, addition of
-  *documentation*, or addition of *Python*, *Java*, or *C* version of an
-  algorithm.
+This project uses only **MAJOR** and **MINOR** version numbers for versioning
+(v*MAJOR.MINOR*). **MAJOR** version number indicates addition of a new
+algorithm and **MINOR** version number indicates *bug fixes*, addition of
+*documentation*, or addition of *Python*, *Java*, or *C* version of an
+algorithm.
 
-  The **Changelog** file contains all the information about the changes made to
-  this project till now. This file can be found [here](CHANGELOG.md).
+The **Changelog** file contains all the information about the changes made to
+this project till now. This file can be found [here](CHANGELOG.md).
