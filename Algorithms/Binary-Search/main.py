@@ -29,26 +29,26 @@ def binary_search(array: list[int], item: int) -> int:
    high = len(array) - 1
 
    while low <= high:
-      # Each time we check for the middle element
-      index = (low + high) // 2                                               # `index` is rounded down by Python
-                                                                              # automatically if (low + high) isn’t
-                                                                              # an even number
-      value = array[index]
+      index = (low + high) // 2                                                 # The `index` is rounded down by
+                                                                                # Python automatically if (low + high)
+                                                                                # isn’t an even number
+      value = array[index]                                                      # Each time we check for the middle
+                                                                                # element
 
-      if item == value:                                                       # the item is found
+      if item == value:                                                         # the item is found
          return index
 
-      if item > value:                                                        # the guessed value was too low
+      if item > value:                                                          # the guessed value was too low
          low = index + 1
-      else:                                                                   # the guessed value was too high
+      else:                                                                     # the guessed value was too high
          high = index - 1
 
-   return -1                                                                  # the item doesn't exist in the array
+   return -1                                                                    # the item doesn't exist in the array
 
 
 if __name__ == '__main__':
-   # creating an array of values from -10 to +10
-   array = [i for i in range(-10, 11)]
+   array = [i for i in range(-10, 11)]                                          # Generating an array of values from
+                                                                                # -10 to +10
    print("Array:", array)
 
    print("`{}` is at index: {}".format(3, binary_search(array, 3)))
