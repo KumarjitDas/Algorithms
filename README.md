@@ -218,10 +218,12 @@ Project link:
 ## Changelog
 
 This project uses only **MAJOR** and **MINOR** version numbers for versioning
-(v*MAJOR.MINOR*). **MAJOR** version number indicates addition of a new
-algorithm and **MINOR** version number indicates *bug fixes*, addition of
-*documentation*, or addition of *Python*, *Java*, or *C* version of an
-algorithm.
+(v*MAJOR.MINOR*).
 
-The **Changelog** file contains all the information about the changes made to
-this project till now. This file can be found [here](CHANGELOG.md).
+- **MAJOR** version number indicates addition of a new algorithm.
+- **MINOR** version number indicates *bug fixes*, addition of
+  *documentation*, or addition of *Python*, *Java*, or *C* version of an
+  algorithm.
+
+The [Changelog](CHANGELOG.md) file contains all the information about the
+changes made to this project till now.
