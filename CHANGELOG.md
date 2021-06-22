@@ -10,7 +10,6 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 - Implementations of algorithms
   - Quick sort
-  - Hash tables
   - Breadth-first search
   - Dijkstra's algorithm
   - Greedy algorithms
