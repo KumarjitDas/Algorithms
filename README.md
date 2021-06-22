@@ -29,7 +29,7 @@ contains the implementations of different algorithms in *Python*, *Java*, and
 I will continue updating this repository by adding more algorithms.
 
 The list of algorithms implemented till now is given in
-[Project status](#project-status).
+[Project Status](#project-status).
 
 ## Installation
 
@@ -142,7 +142,7 @@ See the [open issues](https://github.com/KumarjitDas/Algorithms/issues) for a
 list of proposed algorithms (and known issues).
 
 The list of algorithms implemented till now is given in
-[Project status](#project-status).
+[Project Status](#project-status).
 
 ## Contributing
 
