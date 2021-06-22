@@ -147,7 +147,7 @@ The list of algorithms implemented till now is given in
 ## Contributing
 
 Contributions are what make the open source community such an amazing place
-to be learn, inspire, and create. Any contributions you make are greatly
+to learn, inspire, and create. Any contributions you make are greatly
 appreciated.
 
 - Fork this Project
