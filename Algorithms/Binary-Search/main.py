@@ -19,10 +19,9 @@ def binary_search(array: list[int], item: int) -> int:
    -------
 
    index: int
-      Index of the 'item' is in the array.
-   error_code: int
-      The given 'item' is not in the array.
-      `error_code` is always -1.
+      Index of the 'item' is in the array
+   -1: int
+      The given 'item' is not in the array
    """
 
    low = 0
