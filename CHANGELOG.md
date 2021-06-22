@@ -9,7 +9,6 @@ and this project adheres to
 ## [Unreleased]
 
 - Implementations of algorithms
-  - Recursion
   - Quick sort
   - Hash tables
   - Breadth-first search
@@ -23,6 +22,28 @@ and this project adheres to
 - Complete the **Selection sort** algorithm implementation
   - C implementation
   - Java implementation
+- Complete the **Recursion** algorithm - *countdown* function implementation
+  - C implementation
+  - Java implementation
+
+## [3.0] - 2021-06-22
+
+### Added
+
+- Recursion algorithm - *countdown* function
+  - [Recursion](Algorithms/Recursion) subdirectory
+    - [Python](Algorithms/Recursion/Python) subdirectory
+  - Python implementation of *countdown* function in
+    [countdown.py](Algorithms/Recursion/Python/countdown.py)
+- *Recursion* item in **Unreleased** section of [Changelog](CHANGELOG.md)
+
+### Changed
+
+- *Project Status* for
+  [Recursion](Algorithms/Recursion/Python/countdown.py) implementation in
+  *Python* in [Readme](README.md)
+- Normal to *italic* in [2.0](#20---2021-06-21) section of
+  [Changelog](CHANGELOG.md)
 
 ## [2.1] - 2021-06-22
 
@@ -62,7 +83,7 @@ and this project adheres to
   - [Selection-Sort](Algorithms/Selection-Sort) subdirectory
   - Python implementation in
     [main.py](Algorithms/Selection-Sort/Python/main.py)
-- Selection sort item in **Unreleased** section of [Changelog](CHANGELOG.md)
+- *Selection sort* item in **Unreleased** section of [Changelog](CHANGELOG.md)
 
 ### Changed
 
@@ -131,7 +152,8 @@ and this project adheres to
 
 - [.gitattributes](.gitattributes) file
 
-[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v2.1...HEAD
+[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v3.0...HEAD
+[3.0]: https://github.com/KumarjitDas/Algorithms/compare/v2.1...v3.0
 [2.1]: https://github.com/KumarjitDas/Algorithms/compare/v2.0...v2.1
 [2.0]: https://github.com/KumarjitDas/Algorithms/compare/v1.2...v2.0
 [1.2]: https://github.com/KumarjitDas/Algorithms/compare/v1.1...v1.2
