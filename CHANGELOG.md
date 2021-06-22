@@ -24,19 +24,51 @@ and this project adheres to
   - C implementation
   - Java implementation
 
+## [2.1] - 2021-06-22
+
+### Added
+
+- Instead of a paragraph used bullet points in [Readme](README.md) *Changelog*
+  section.
+- [Python](Algorithms/Binary-Search/Python) subdirectory in
+  [Binary-Search](Algorithms/Binary-Search) directory
+- [Python](Algorithms/Selection-Sort/Python) subdirectory in
+  [Selection-Sort](Algorithms/Selection-Sort) directory
+
+### Changed
+
+- Instead of a paragraph, used bullet points in [Readme](README.md) *Changelog*
+  section.
+- Location of **Binary-Search/main.py** to
+  [Binary-Search/Python/main.py](Algorithms/Binary-Search/Python/main.py)
+- Location of **Selection-Sort/main.py** to
+  [Selection-Sort/Python/main.py](Algorithms/Selection-Sort/Python/main.py)
+
+### Fixed
+
+- Grammatical and case mistakes in [Readme](README.md)
+- Docstring *Returns* section of Python
+  [Binary-Search](Algorithms/Binary-Search/Python/main.py)
+- [Binary-Search](Algorithms/Binary-Search/Python/main.py) Python file link in
+  *Changelog*.
+- [Selection-Sort](Algorithms/Selection-Sort/Python/main.py) Python file link
+  in *Changelog*.
+
 ## [2.0] - 2021-06-21
 
 ### Added
 
 - Selection sort algorithm
   - [Selection-Sort](Algorithms/Selection-Sort) subdirectory
-  - Python implementation in [main.py](Algorithms/Selection-Sort/main.py)
+  - Python implementation in
+    [main.py](Algorithms/Selection-Sort/Python/main.py)
 - Selection sort item in **Unreleased** section of [Changelog](CHANGELOG.md)
 
 ### Changed
 
-- *Project Status* for [Selection-Sort](Algorithms/Selection-Sort/main.py)
-  implementation in *Python* in [Readme](README.md)
+- *Project Status* for
+  [Selection-Sort](Algorithms/Selection-Sort/Python/main.py) implementation in
+  *Python* in [Readme](README.md)
 
 ## [1.2] - 2021-06-21
 
@@ -49,7 +81,7 @@ and this project adheres to
 ### Fixed
 
 - Comment indentation in
-  [Binary-Search/main.py](Algorithms/Binary-Search/main.py)
+  [Binary-Search/Python/main.py](Algorithms/Binary-Search/Python/main.py)
 
 ### Removed
 
@@ -58,7 +90,7 @@ and this project adheres to
 ### Changed
 
 - Format strings to f-strings in
-  [Binary-Search/main.py](Algorithms/Binary-Search/main.py)
+  [Binary-Search/Python/main.py](Algorithms/Binary-Search/Python/main.py)
 
 ## [1.0] - 2021-06-21
 
@@ -67,7 +99,7 @@ and this project adheres to
 - [Algorithms](Algorithms) directory
 - Binary search algorithm
   - [Binary-Search](Algorithms/Binary-Search) subdirectory
-  - Python implementation in [main.py](Algorithms/Binary-Search/main.py)
+  - Python implementation in [main.py](Algorithms/Binary-Search/Python/main.py)
 
 ### Fixed
 
@@ -99,7 +131,8 @@ and this project adheres to
 
 - [.gitattributes](.gitattributes) file
 
-[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v2.0...HEAD
+[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v2.1...HEAD
+[2.1]: https://github.com/KumarjitDas/Algorithms/compare/v2.0...v2.1
 [2.0]: https://github.com/KumarjitDas/Algorithms/compare/v1.2...v2.0
 [1.2]: https://github.com/KumarjitDas/Algorithms/compare/v1.1...v1.2
 [1.1]: https://github.com/KumarjitDas/Algorithms/compare/v1.0...v1.1
