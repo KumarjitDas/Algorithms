@@ -22,9 +22,22 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 - Complete the **Selection sort** algorithm implementation
   - C implementation
   - Java implementation
-- Complete the **Recursion** algorithm - *countdown* function implementation
+- Complete the **Recursion** algorithm - *countdown* and *factorial* function
+  implementation
   - C implementation
   - Java implementation
+
+## [3.1] - 2021-06-22
+
+### Added
+
+- Python implementation of *factorial* function in
+  [factorial.py](Algorithms/Recursion/Python/factorial.py)
+
+### Changed
+
+- *Recursion* item in **Unreleased** section of [Changelog](CHANGELOG.md) for
+  *factorial* function
 
 ## [3.0] - 2021-06-22
 
@@ -152,7 +165,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 - [.gitattributes](.gitattributes) file
 
-[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v3.0...HEAD
+[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v3.1...HEAD
+[3.1]: https://github.com/KumarjitDas/Algorithms/compare/v3.0...v3.1
 [3.0]: https://github.com/KumarjitDas/Algorithms/compare/v2.1...v3.0
 [2.1]: https://github.com/KumarjitDas/Algorithms/compare/v2.0...v2.1
 [2.0]: https://github.com/KumarjitDas/Algorithms/compare/v1.2...v2.0
