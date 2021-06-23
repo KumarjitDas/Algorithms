@@ -9,6 +9,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 ## [Unreleased]
 
 - Implementations of algorithms
+  - Divide and Conquer
   - Quick sort
   - Breadth-first search
   - Dijkstra's algorithm
