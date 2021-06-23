@@ -26,6 +26,29 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
   implementation
   - C implementation
   - Java implementation
+- Complete the **Divide and conquer** algorithm implementation
+  - C implementation
+  - Java implementation
+
+## [4.0] - 2021-06-23
+
+### Added
+
+- *Divide-and-Conquer* item in **Unreleased** section of
+  [Changelog](CHANGELOG.md)
+- *Divide-and-Conquer* item in **Project Status** section of
+  [Readme](README.md)
+- Divide and conquer algorithm
+  - [Divide-and-Conquer](Algorithms/Divide-and-Conquer) subdirectory
+    - [Python](Algorithms/Divide-and-Conquer/Python) subdirectory
+    - Python implementation of *arraysum* function in
+      [main.py](Algorithms/Divide-and-Conquer/Python/main.py)
+
+### Changed
+
+- *Project Status* for
+  [Divide-and-Conquer](Algorithms/Divide-and-Conquer/Python/main.py)
+  implementation in *Python* in [Readme](README.md)
 
 ## [3.1] - 2021-06-22
 
@@ -165,7 +188,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 - [.gitattributes](.gitattributes) file
 
-[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v3.1...HEAD
+[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v4.0...HEAD
+[4.0]: https://github.com/KumarjitDas/Algorithms/compare/v3.1...v4.0
 [3.1]: https://github.com/KumarjitDas/Algorithms/compare/v3.0...v3.1
 [3.0]: https://github.com/KumarjitDas/Algorithms/compare/v2.1...v3.0
 [2.1]: https://github.com/KumarjitDas/Algorithms/compare/v2.0...v2.1
