@@ -185,7 +185,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 ### Added
 
-- [.gitattributes](.gitattributes) file
+- [GitAttributes](.gitattributes) file
 
 [Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v4.0...HEAD
 [4.0]: https://github.com/KumarjitDas/Algorithms/compare/v3.1...v4.0
