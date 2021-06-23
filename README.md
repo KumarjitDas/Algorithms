@@ -187,7 +187,7 @@ List of algorithms implemented
 | Selection Sort       | ✔      | ✖    | ✖   |
 | Recursion            | ✔      | ✖    | ✖   |
 | Divide and Conquer   | ✔      | ✖    | ✖   |
-| Quick Sort           | ✖      | ✖    | ✖   |
+| Quick Sort           | ✔      | ✖    | ✖   |
 | Breadth-first Search | ✖      | ✖    | ✖   |
 | Dijkstra's Algorithm | ✖      | ✖    | ✖   |
 | Greedy Algorithms    | ✖      | ✖    | ✖   |
