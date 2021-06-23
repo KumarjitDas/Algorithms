@@ -16,17 +16,17 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
   - Greedy algorithms
   - Dynamic programming
   - K-nearest neighbours
-- Complete the **Binary search** algorithm implementation
+- Complete the **Binary Search** algorithm implementation
   - C implementation
   - Java implementation
-- Complete the **Selection sort** algorithm implementation
+- Complete the **Selection Sort** algorithm implementation
   - C implementation
   - Java implementation
 - Complete the **Recursion** algorithm - *countdown* and *factorial* function
   implementation
   - C implementation
   - Java implementation
-- Complete the **Divide and conquer** algorithm implementation
+- Complete the **Divide and Conquer** algorithm implementation
   - C implementation
   - Java implementation
 
