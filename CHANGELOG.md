@@ -9,7 +9,6 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 ## [Unreleased]
 
 - Implementations of algorithms
-  - Quick sort
   - Breadth-first search
   - Dijkstra's algorithm
   - Greedy algorithms
@@ -28,6 +27,34 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 - Complete the **Divide and Conquer** algorithm implementation
   - C implementation
   - Java implementation
+- Complete the **Quick Sort** algorithm implementation
+  - C implementation
+  - Java implementation
+
+## [5.0] - 2021-06-23
+
+### Removed
+
+- *Divide and Conquer* from [Unreleased](#unreleased) section's algorithm list
+  in [Changelog](CHANGELOG.md)
+- *Quick Sort* from [Unreleased](#unreleased) section's algorithm list in
+  [Changelog](CHANGELOG.md)
+
+### Changed
+
+- From *.gitattributes* to *GitAttributes* in [0.1](#01---2021-06-20) section
+  of [Changelog](CHANGELOG.md)
+- *Project Status* for [Quick-Sort](Algorithms/Quick-Sort/Python/main.py)
+  implementation in *Python* in [Readme](README.md)
+
+### Added
+
+- Quick Sort algorithm
+  - [Quick-Sort](Algorithms/Quick-Sort) subdirectory
+    - [Python](Algorithms/Quick-Sort/Python) subdirectory
+    - Python implementation in
+      [main.py](Algorithms/Quick-Sort/Python/main.py)
+- *Quick Sort* item in **Unreleased** section of [Changelog](CHANGELOG.md)
 
 ## [4.0] - 2021-06-23
 
@@ -187,7 +214,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 - [GitAttributes](.gitattributes) file
 
-[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v4.0...HEAD
+[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v5.0...HEAD
+[5.0]: https://github.com/KumarjitDas/Algorithms/compare/v4.0...v5.0
 [4.0]: https://github.com/KumarjitDas/Algorithms/compare/v3.1...v4.0
 [3.1]: https://github.com/KumarjitDas/Algorithms/compare/v3.0...v3.1
 [3.0]: https://github.com/KumarjitDas/Algorithms/compare/v2.1...v3.0
