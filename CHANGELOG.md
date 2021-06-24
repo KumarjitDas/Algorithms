@@ -15,21 +15,21 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
   - Dynamic programming
   - K-nearest neighbours
 - Complete the **Binary Search** algorithm implementation
-  - C implementation
   - Java implementation
+  - C implementation
 - Complete the **Selection Sort** algorithm implementation
-  - C implementation
   - Java implementation
+  - C implementation
 - Complete the **Recursion** algorithm - *countdown* and *factorial* function
   implementation
-  - C implementation
   - Java implementation
+  - C implementation
 - Complete the **Divide and Conquer** algorithm implementation
-  - C implementation
   - Java implementation
+  - C implementation
 - Complete the **Quick Sort** algorithm implementation
-  - C implementation
   - Java implementation
+  - C implementation
 
 ## [5.0] - 2021-06-23
 
