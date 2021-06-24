@@ -188,7 +188,7 @@ List of algorithms implemented
 | Recursion            | ✔      | ✖    | ✖   |
 | Divide and Conquer   | ✔      | ✖    | ✖   |
 | Quick Sort           | ✔      | ✖    | ✖   |
-| Breadth-first Search | ✖      | ✖    | ✖   |
+| Breadth-first Search | ✔      | ✖    | ✖   |
 | Dijkstra's Algorithm | ✖      | ✖    | ✖   |
 | Greedy Algorithms    | ✖      | ✖    | ✖   |
 | Dynamic Programming  | ✖      | ✖    | ✖   |
