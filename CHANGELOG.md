@@ -9,7 +9,6 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 ## [Unreleased]
 
 - Implementations of algorithms
-  - Breadth-first search
   - Dijkstra's algorithm
   - Greedy algorithms
   - Dynamic programming
@@ -30,6 +29,29 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 - Complete the **Quick Sort** algorithm implementation
   - Java implementation
   - C implementation
+
+## [6.0] - 2021-06-24
+
+### Removed
+
+- *Breadth-first Search* from [Unreleased](#unreleased) section's algorithm
+  list in [Changelog](CHANGELOG.md)
+
+### Changed
+
+- *Project Status* for
+  [Breadth-first-Search](Algorithms/Breadth-first-Search/Python/main.py)
+  implementation in *Python* in [Readme](README.md)
+
+### Added
+
+- *Breadth-first-Search* item in **Unreleased** section of
+  [Changelog](CHANGELOG.md)
+- Breadth-first search algorithm
+  - [Breadth-first-Search](Algorithms/Breadth-first-Search) subdirectory
+    - [Python](Algorithms/Breadth-first-Search/Python) subdirectory
+    - Python implementation of *arraysum* function in
+      [main.py](Algorithms/Breadth-first-Search/Python/main.py)
 
 ## [5.0] - 2021-06-23
 
@@ -214,7 +236,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 - [GitAttributes](.gitattributes) file
 
-[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v5.0...HEAD
+[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v6.0...HEAD
+[6.0]: https://github.com/KumarjitDas/Algorithms/compare/v5.0...v6.0
 [5.0]: https://github.com/KumarjitDas/Algorithms/compare/v4.0...v5.0
 [4.0]: https://github.com/KumarjitDas/Algorithms/compare/v3.1...v4.0
 [3.1]: https://github.com/KumarjitDas/Algorithms/compare/v3.0...v3.1
