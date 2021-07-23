@@ -189,7 +189,7 @@ List of algorithms implemented
 | Divide and Conquer   | ✔      | ✖    | ✖   |
 | Quick Sort           | ✔      | ✖    | ✖   |
 | Breadth-first Search | ✔      | ✖    | ✖   |
-| Dijkstra's Algorithm | ✖      | ✖    | ✖   |
+| Dijkstra's Algorithm | ✔      | ✖    | ✖   |
 | Greedy Algorithms    | ✖      | ✖    | ✖   |
 | Dynamic Programming  | ✖      | ✖    | ✖   |
 | K-nearest Neighbours | ✖      | ✖    | ✖   |
