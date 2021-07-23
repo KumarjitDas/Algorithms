@@ -190,7 +190,7 @@ List of algorithms implemented
 | Quick Sort           | ✔      | ✖    | ✖   |
 | Breadth-first Search | ✔      | ✖    | ✖   |
 | Dijkstra's Algorithm | ✔      | ✖    | ✖   |
-| Greedy Algorithms    | ✖      | ✖    | ✖   |
+| Greedy Algorithms    | ✔      | ✖    | ✖   |
 | Dynamic Programming  | ✖      | ✖    | ✖   |
 | K-nearest Neighbours | ✖      | ✖    | ✖   |
 
