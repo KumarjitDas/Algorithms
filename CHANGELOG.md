@@ -28,32 +28,38 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 - Complete the **Quick Sort** algorithm implementation
   - Java implementation
   - C implementation
-- Complete the **Dijkstra's algorithm** implementation
+- Complete the **Dijkstra's Algorithm** implementation
   - Java implementation
   - C implementation
+
+## [7.1] - 2021-07-23
+
+### Fixed
+
+- *Dijkstra's Algorithm*'s directory path
 
 ## [7.0] - 2021-07-23
 
 ### Removed
 
-- *Dijkstra's algorithm* from [Unreleased](#unreleased) section's algorithm
+- *Dijkstra's Algorithm* from [Unreleased](#unreleased) section's algorithm
   list in [Changelog](CHANGELOG.md)
 
 ### Changed
 
 - *Project Status* for
-  [Dijkstras-algorithm](Algorithms/Dijkstras-algorithm/Python/main.py)
+  [Dijkstras-algorithm](Algorithms/Dijkstras-Algorithm/Python/main.py)
   implementation in *Python* in [Readme](README.md)
 
 ### Added
 
-- *Dijkstra's algorithm* item in **Unreleased** section of
+- *Dijkstra's Algorithm* item in **Unreleased** section of
   [Changelog](CHANGELOG.md)
-- Dijkstra's algorithm
-  - [Dijkstras-algorithm](Algorithms/Dijkstras-algorithm) subdirectory
-    - [Python](Algorithms/Dijkstras-algorithm/Python) subdirectory
+- Dijkstra's Algorithm
+  - [Dijkstras-algorithm](Algorithms/Dijkstras-Algorithm) subdirectory
+    - [Python](Algorithms/Dijkstras-Algorithm/Python) subdirectory
     - Python implementation of *arraysum* function in
-      [main.py](Algorithms/Dijkstras-algorithm/Python/main.py)
+      [main.py](Algorithms/Dijkstras-Algorithm/Python/main.py)
 
 ## [6.0] - 2021-06-24
 
@@ -261,7 +267,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 - [GitAttributes](.gitattributes) file
 
-[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v7.0...HEAD
+[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v7.1...HEAD
+[7.1]: https://github.com/KumarjitDas/Algorithms/compare/v7.0...v7.1
 [7.0]: https://github.com/KumarjitDas/Algorithms/compare/v6.0...v7.0
 [6.0]: https://github.com/KumarjitDas/Algorithms/compare/v5.0...v6.0
 [5.0]: https://github.com/KumarjitDas/Algorithms/compare/v4.0...v5.0
