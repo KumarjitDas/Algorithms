@@ -9,7 +9,6 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 ## [Unreleased]
 
 - Implementations of algorithms
-  - Greedy algorithms
   - Dynamic programming
   - K-nearest neighbours
 - Complete the **Binary Search** algorithm implementation
@@ -31,6 +30,32 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 - Complete the **Dijkstra's Algorithm** implementation
   - Java implementation
   - C implementation
+- Complete the **Greedy Algorithm** implementation
+  - Java implementation
+  - C implementation
+
+## [8.0] - 2021-07-23
+
+### Removed
+
+- *Greedy Algorithm* from [Unreleased](#unreleased) section's algorithm
+  list in [Changelog](CHANGELOG.md)
+
+### Changed
+
+- *Project Status* for
+  [Greedy-algorithm](Algorithms/Greedy-Algorithm/Python/main.py)
+  implementation in *Python* in [Readme](README.md)
+
+### Added
+
+- *Greedy Algorithm* item in **Unreleased** section of
+  [Changelog](CHANGELOG.md)
+- Greedy Algorithm
+  - [Greedy-algorithm](Algorithms/Greedy-Algorithm) subdirectory
+    - [Python](Algorithms/Greedy-Algorithm/Python) subdirectory
+    - Python implementation of *arraysum* function in
+      [main.py](Algorithms/Greedy-Algorithm/Python/main.py)
 
 ## [7.1] - 2021-07-23
 
@@ -267,7 +292,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 - [GitAttributes](.gitattributes) file
 
-[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v7.1...HEAD
+[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v8.0...HEAD
+[8.0]: https://github.com/KumarjitDas/Algorithms/compare/v7.1...v8.0
 [7.1]: https://github.com/KumarjitDas/Algorithms/compare/v7.0...v7.1
 [7.0]: https://github.com/KumarjitDas/Algorithms/compare/v6.0...v7.0
 [6.0]: https://github.com/KumarjitDas/Algorithms/compare/v5.0...v6.0
