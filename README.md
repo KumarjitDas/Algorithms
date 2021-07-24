@@ -192,6 +192,14 @@ List of algorithms implemented
 | Dijkstra's Algorithm | ✔      | ✖    | ✖   |
 | Greedy Algorithms    | ✔      | ✖    | ✖   |
 | Heap Sort            | ✔      | ✖    | ✖   |
+| Bucket Sort          | ✖      | ✖    | ✖   |
+| Merge Sort           | ✖      | ✖    | ✖   |
+| Bloom Filter         | ✖      | ✖    | ✖   |
+| Binary Search Tree   | ✖      | ✖    | ✖   |
+| Depth-First Search   | ✖      | ✖    | ✖   |
+| All-Pairs            | ✖      | ✖    | ✖   |
+| Shortest Path        | ✖      | ✖    | ✖   |
+| Prim’s Algorithm     | ✖      | ✖    | ✖   |
 | Dynamic Programming  | ✖      | ✖    | ✖   |
 | K-nearest Neighbours | ✖      | ✖    | ✖   |
 
