@@ -13,7 +13,27 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
   - K-nearest neighbours
 - Complete the implementation in *Java*, *C* for
 - **Binary Search, Selection Sort, Recursion, Divide and Conquer, Quick Sort,**
-  **Dijkstra's Algorithm, Greedy Algorithm**
+  **Dijkstra's Algorithm, Greedy Algorithm, Heap Sort**
+
+## [9.0] - 2021-07-24
+
+### Changed
+
+- *Project Status* for
+  [Heap-Sort](Algorithms/Heap-Sort/Python/main.py)
+  implementation in *Python* in [Readme](README.md)
+- [Unreleased](#unreleased) section's algorithm list in
+  [Changelog](CHANGELOG.md)
+
+### Added
+
+- *Heap Sort* item in **Unreleased** section of
+  [Changelog](CHANGELOG.md)
+- Heap Sort
+  - [Heap-Sort](Algorithms/Heap-Sort) subdirectory
+    - [Python](Algorithms/Heap-Sort/Python) subdirectory
+    - Python implementation of *arraysum* function in
+      [main.py](Algorithms/Heap-Sort/Python/main.py)
 
 ## [8.0] - 2021-07-23
 
@@ -273,7 +293,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 - [GitAttributes](.gitattributes) file
 
-[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v8.0...HEAD
+[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v9.0...HEAD
+[9.0]: https://github.com/KumarjitDas/Algorithms/compare/v8.0...v9.0
 [8.0]: https://github.com/KumarjitDas/Algorithms/compare/v7.1...v8.0
 [7.1]: https://github.com/KumarjitDas/Algorithms/compare/v7.0...v7.1
 [7.0]: https://github.com/KumarjitDas/Algorithms/compare/v6.0...v7.0
