@@ -11,28 +11,9 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 - Implementations of algorithms
   - Dynamic programming
   - K-nearest neighbours
-- Complete the **Binary Search** algorithm implementation
-  - Java implementation
-  - C implementation
-- Complete the **Selection Sort** algorithm implementation
-  - Java implementation
-  - C implementation
-- Complete the **Recursion** algorithm - *countdown* and *factorial* function
-  implementation
-  - Java implementation
-  - C implementation
-- Complete the **Divide and Conquer** algorithm implementation
-  - Java implementation
-  - C implementation
-- Complete the **Quick Sort** algorithm implementation
-  - Java implementation
-  - C implementation
-- Complete the **Dijkstra's Algorithm** implementation
-  - Java implementation
-  - C implementation
-- Complete the **Greedy Algorithm** implementation
-  - Java implementation
-  - C implementation
+- Complete the implementation in *Java*, *C* for
+- **Binary Search, Selection Sort, Recursion, Divide and Conquer, Quick Sort,**
+  **Dijkstra's Algorithm, Greedy Algorithm**
 
 ## [8.0] - 2021-07-23
 
