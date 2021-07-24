@@ -9,11 +9,21 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 ## [Unreleased]
 
 - Implementations of algorithms
-  - Dynamic programming
-  - K-nearest neighbours
+  - **Bucket Sort, Merge Sort, Dynamic programming, K-nearest neighbours,**
+    **Bloom Filter, Binary Search Tree, Depth-First Search, All-Pairs**
+    **Shortest Path, Prim’s Algorithm**
 - Complete the implementation in *Java*, *C* for
 - **Binary Search, Selection Sort, Recursion, Divide and Conquer, Quick Sort,**
   **Dijkstra's Algorithm, Greedy Algorithm, Heap Sort**
+
+## [9.1] - 2021-07-24
+
+### Added
+
+- More algorithms in the algorithms list of *Project Status* in
+  [Readme](README.md)
+- More algorithms in the [Unreleased](#unreleased) section's algorithm list in
+  [Changelog](CHANGELOG.md)
 
 ## [9.0] - 2021-07-24
 
@@ -293,7 +303,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 - [GitAttributes](.gitattributes) file
 
-[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v9.0...HEAD
+[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v9.1...HEAD
+[9.1]: https://github.com/KumarjitDas/Algorithms/compare/v9.0...v9.1
 [9.0]: https://github.com/KumarjitDas/Algorithms/compare/v8.0...v9.0
 [8.0]: https://github.com/KumarjitDas/Algorithms/compare/v7.1...v8.0
 [7.1]: https://github.com/KumarjitDas/Algorithms/compare/v7.0...v7.1
