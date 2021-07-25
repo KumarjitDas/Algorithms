@@ -19,6 +19,27 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
   **Binary Search, Selection Sort, Recursion, Divide and Conquer, Quick Sort,**
   **Dijkstra's Algorithm, Greedy Algorithm, Heap Sort**
 
+## [9.2] - 2021-07-25
+
+### Removed
+
+- *Binary Search* from [Unreleased](#unreleased) section's algorithm list of
+  *Java implementation* in [Changelog]
+
+### Changed
+
+- *Project Status* for [Binary-Search](Algorithms/Binary-Search/Java/Main.java)
+  implementation in *Java* in [Readme]
+
+### Added
+
+- Binary Search
+  - [Binary-Search](Algorithms/Binary-Search) subdirectory
+    - [Java](Algorithms/Binary-Search/Java) subdirectory
+    - Java implementation of *arraysum* function in
+      [Main.java](Algorithms/Binary-Search/Java/Main.java)
+- Links to [Readme] and [Changelog]
+
 ## [9.1] - 2021-07-24
 
 ### Added
@@ -294,7 +315,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 - [GitAttributes](.gitattributes) file
 
-[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v9.1...HEAD
+[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v9.2...HEAD
+[9.2]: https://github.com/KumarjitDas/Algorithms/compare/v9.1...v9.2
 [9.1]: https://github.com/KumarjitDas/Algorithms/compare/v9.0...v9.1
 [9.0]: https://github.com/KumarjitDas/Algorithms/compare/v8.0...v9.0
 [8.0]: https://github.com/KumarjitDas/Algorithms/compare/v7.1...v8.0
