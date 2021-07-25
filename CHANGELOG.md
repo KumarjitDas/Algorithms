@@ -12,33 +12,32 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
   - **Bucket Sort, Merge Sort, Dynamic programming, K-nearest neighbours,**
     **Bloom Filter, Binary Search Tree, Depth-First Search, All-Pairs**
     **Shortest Path, Prim’s Algorithm**
-- Complete the implementation in *Java*, *C* for
-- **Binary Search, Selection Sort, Recursion, Divide and Conquer, Quick Sort,**
+- Complete the implementation in *Java* for
+  **Selection Sort, Recursion, Divide and Conquer, Quick Sort,**
+  **Dijkstra's Algorithm, Greedy Algorithm, Heap Sort**
+- Complete the implementation in *C* for
+  **Binary Search, Selection Sort, Recursion, Divide and Conquer, Quick Sort,**
   **Dijkstra's Algorithm, Greedy Algorithm, Heap Sort**
 
 ## [9.1] - 2021-07-24
 
 ### Added
 
-- More algorithms in the algorithms list of *Project Status* in
-  [Readme](README.md)
+- More algorithms in the algorithms list of *Project Status* in [Readme]
 - More algorithms in the [Unreleased](#unreleased) section's algorithm list in
-  [Changelog](CHANGELOG.md)
+  [Changelog]
 
 ## [9.0] - 2021-07-24
 
 ### Changed
 
-- *Project Status* for
-  [Heap-Sort](Algorithms/Heap-Sort/Python/main.py)
-  implementation in *Python* in [Readme](README.md)
-- [Unreleased](#unreleased) section's algorithm list in
-  [Changelog](CHANGELOG.md)
+- *Project Status* for [Heap-Sort](Algorithms/Heap-Sort/Python/main.py)
+  implementation in *Python* in [Readme]
+- [Unreleased](#unreleased) section's algorithm list in [Changelog]
 
 ### Added
 
-- *Heap Sort* item in **Unreleased** section of
-  [Changelog](CHANGELOG.md)
+- *Heap Sort* item in **Unreleased** section of [Changelog]
 - Heap Sort
   - [Heap-Sort](Algorithms/Heap-Sort) subdirectory
     - [Python](Algorithms/Heap-Sort/Python) subdirectory
@@ -50,18 +49,17 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 ### Removed
 
 - *Greedy Algorithm* from [Unreleased](#unreleased) section's algorithm
-  list in [Changelog](CHANGELOG.md)
+  list in [Changelog]
 
 ### Changed
 
 - *Project Status* for
   [Greedy-algorithm](Algorithms/Greedy-Algorithm/Python/main.py)
-  implementation in *Python* in [Readme](README.md)
+  implementation in *Python* in [Readme]
 
 ### Added
 
-- *Greedy Algorithm* item in **Unreleased** section of
-  [Changelog](CHANGELOG.md)
+- *Greedy Algorithm* item in **Unreleased** section of [Changelog]
 - Greedy Algorithm
   - [Greedy-algorithm](Algorithms/Greedy-Algorithm) subdirectory
     - [Python](Algorithms/Greedy-Algorithm/Python) subdirectory
@@ -79,18 +77,17 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 ### Removed
 
 - *Dijkstra's Algorithm* from [Unreleased](#unreleased) section's algorithm
-  list in [Changelog](CHANGELOG.md)
+  list in [Changelog]
 
 ### Changed
 
 - *Project Status* for
   [Dijkstras-algorithm](Algorithms/Dijkstras-Algorithm/Python/main.py)
-  implementation in *Python* in [Readme](README.md)
+  implementation in *Python* in [Readme]
 
 ### Added
 
-- *Dijkstra's Algorithm* item in **Unreleased** section of
-  [Changelog](CHANGELOG.md)
+- *Dijkstra's Algorithm* item in **Unreleased** section of [Changelog]
 - Dijkstra's Algorithm
   - [Dijkstras-algorithm](Algorithms/Dijkstras-Algorithm) subdirectory
     - [Python](Algorithms/Dijkstras-Algorithm/Python) subdirectory
@@ -102,18 +99,17 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 ### Removed
 
 - *Breadth-first Search* from [Unreleased](#unreleased) section's algorithm
-  list in [Changelog](CHANGELOG.md)
+  list in [Changelog]
 
 ### Changed
 
 - *Project Status* for
   [Breadth-first-Search](Algorithms/Breadth-first-Search/Python/main.py)
-  implementation in *Python* in [Readme](README.md)
+  implementation in *Python* in [Readme]
 
 ### Added
 
-- *Breadth-first-Search* item in **Unreleased** section of
-  [Changelog](CHANGELOG.md)
+- *Breadth-first-Search* item in **Unreleased** section of [Changelog]
 - Breadth-first search algorithm
   - [Breadth-first-Search](Algorithms/Breadth-first-Search) subdirectory
     - [Python](Algorithms/Breadth-first-Search/Python) subdirectory
@@ -125,16 +121,16 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 ### Removed
 
 - *Divide and Conquer* from [Unreleased](#unreleased) section's algorithm list
-  in [Changelog](CHANGELOG.md)
+  in [Changelog]
 - *Quick Sort* from [Unreleased](#unreleased) section's algorithm list in
-  [Changelog](CHANGELOG.md)
+  [Changelog]
 
 ### Changed
 
 - From *.gitattributes* to *GitAttributes* in [0.1](#01---2021-06-20) section
-  of [Changelog](CHANGELOG.md)
+  of [Changelog]
 - *Project Status* for [Quick-Sort](Algorithms/Quick-Sort/Python/main.py)
-  implementation in *Python* in [Readme](README.md)
+  implementation in *Python* in [Readme]
 
 ### Added
 
@@ -143,16 +139,14 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
     - [Python](Algorithms/Quick-Sort/Python) subdirectory
     - Python implementation in
       [main.py](Algorithms/Quick-Sort/Python/main.py)
-- *Quick Sort* item in **Unreleased** section of [Changelog](CHANGELOG.md)
+- *Quick Sort* item in **Unreleased** section of [Changelog]
 
 ## [4.0] - 2021-06-23
 
 ### Added
 
-- *Divide-and-Conquer* item in **Unreleased** section of
-  [Changelog](CHANGELOG.md)
-- *Divide-and-Conquer* item in **Project Status** section of
-  [Readme](README.md)
+- *Divide-and-Conquer* item in **Unreleased** section of [Changelog]
+- *Divide-and-Conquer* item in **Project Status** section of [Readme]
 - Divide and conquer algorithm
   - [Divide-and-Conquer](Algorithms/Divide-and-Conquer) subdirectory
     - [Python](Algorithms/Divide-and-Conquer/Python) subdirectory
@@ -163,7 +157,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 - *Project Status* for
   [Divide-and-Conquer](Algorithms/Divide-and-Conquer/Python/main.py)
-  implementation in *Python* in [Readme](README.md)
+  implementation in *Python* in [Readme]
 
 ## [3.1] - 2021-06-22
 
@@ -174,8 +168,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 ### Changed
 
-- *Recursion* item in **Unreleased** section of [Changelog](CHANGELOG.md) for
-  *factorial* function
+- *Recursion* item in **Unreleased** section of [Changelog] for *factorial*
+  function
 
 ## [3.0] - 2021-06-22
 
@@ -186,22 +180,20 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
     - [Python](Algorithms/Recursion/Python) subdirectory
   - Python implementation of *countdown* function in
     [countdown.py](Algorithms/Recursion/Python/countdown.py)
-- *Recursion* item in **Unreleased** section of [Changelog](CHANGELOG.md)
+- *Recursion* item in **Unreleased** section of [Changelog]
 
 ### Changed
 
 - *Project Status* for
   [Recursion](Algorithms/Recursion/Python/countdown.py) implementation in
-  *Python* in [Readme](README.md)
-- Normal to *italic* in [2.0](#20---2021-06-21) section of
-  [Changelog](CHANGELOG.md)
+  *Python* in [Readme]
+- Normal to *italic* in [2.0](#20---2021-06-21) section of [Changelog]
 
 ## [2.1] - 2021-06-22
 
 ### Added
 
-- Instead of a paragraph used bullet points in [Readme](README.md) *Changelog*
-  section.
+- Instead of a paragraph used bullet points in [Readme] *Changelog* section.
 - [Python](Algorithms/Binary-Search/Python) subdirectory in
   [Binary-Search](Algorithms/Binary-Search) directory
 - [Python](Algorithms/Selection-Sort/Python) subdirectory in
@@ -209,8 +201,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 ### Changed
 
-- Instead of a paragraph, used bullet points in [Readme](README.md) *Changelog*
-  section.
+- Instead of a paragraph, used bullet points in [Readme] *Changelog* section.
 - Location of **Binary-Search/main.py** to
   [Binary-Search/Python/main.py](Algorithms/Binary-Search/Python/main.py)
 - Location of **Selection-Sort/main.py** to
@@ -218,7 +209,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 ### Fixed
 
-- Grammatical and case mistakes in [Readme](README.md)
+- Grammatical and case mistakes in [Readme]
 - Docstring *Returns* section of Python
   [Binary-Search](Algorithms/Binary-Search/Python/main.py)
 - [Binary-Search](Algorithms/Binary-Search/Python/main.py) Python file link in
@@ -234,19 +225,19 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
   - [Selection-Sort](Algorithms/Selection-Sort) subdirectory
   - Python implementation in
     [main.py](Algorithms/Selection-Sort/Python/main.py)
-- *Selection sort* item in **Unreleased** section of [Changelog](CHANGELOG.md)
+- *Selection sort* item in **Unreleased** section of [Changelog]
 
 ### Changed
 
 - *Project Status* for
   [Selection-Sort](Algorithms/Selection-Sort/Python/main.py) implementation in
-  *Python* in [Readme](README.md)
+  *Python* in [Readme]
 
 ## [1.2] - 2021-06-21
 
 ### Changed
 
-- Indentation in [Readme](README.md)
+- Indentation in [Readme]
 
 ## [1.1] - 2021-06-21
 
@@ -257,7 +248,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 ### Removed
 
-- Fullstops (.) from end of lines/items in [Changelog](CHANGELOG.md)
+- Fullstops (.) from end of lines/items in [Changelog]
 
 ### Changed
 
@@ -275,14 +266,14 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 ### Fixed
 
-- Spelling and pronounciation mistake in [Readme](README.md)
+- Spelling and pronounciation mistake in [Readme]
 - Used *Italic* instead of **Bold** in programming language names
 
 ## [0.4] - 2021-06-21
 
 ### Added
 
-- [Changelog](CHANGELOG.md) file
+- [Changelog] file
 
 ## [0.3] - 2021-06-21
 
@@ -295,7 +286,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 ### Added
 
-- [Readme](README.md) file
+- [Readme] file
 
 ## [0.1] - 2021-06-20
 
@@ -323,3 +314,6 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 [0.3]: https://github.com/KumarjitDas/Algorithms/compare/v0.2...v0.3
 [0.2]: https://github.com/KumarjitDas/Algorithms/compare/v0.1...v0.2
 [0.1]: https://github.com/KumarjitDas/Algorithms/releases/tag/v0.1
+
+[Readme]: README.md
+[Changelog]: CHANGELOG.md
