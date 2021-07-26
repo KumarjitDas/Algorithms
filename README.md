@@ -184,7 +184,7 @@ List of algorithms implemented
 | Algorithm name       | Python | Java  | C   |
 | -------------------- | ------ | ----  | --- |
 | Binary Search        | ✔      | ✔    | ✖   |
-| Selection Sort       | ✔      | ✖    | ✖   |
+| Selection Sort       | ✔      | ✔    | ✖   |
 | Recursion            | ✔      | ✖    | ✖   |
 | Divide and Conquer   | ✔      | ✖    | ✖   |
 | Quick Sort           | ✔      | ✖    | ✖   |
