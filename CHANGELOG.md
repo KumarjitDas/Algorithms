@@ -36,7 +36,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 - Binary Search
   - [Binary-Search](Algorithms/Binary-Search) subdirectory
     - [Java](Algorithms/Binary-Search/Java) subdirectory
-    - Java implementation of *arraysum* function in
+    - Java implementation of *binary_search* method in
       [Main.java](Algorithms/Binary-Search/Java/Main.java)
 - Links to [Readme] and [Changelog]
 
@@ -62,7 +62,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 - Heap Sort
   - [Heap-Sort](Algorithms/Heap-Sort) subdirectory
     - [Python](Algorithms/Heap-Sort/Python) subdirectory
-    - Python implementation of *arraysum* function in
+    - Python implementation of *heap_sort* function in
       [main.py](Algorithms/Heap-Sort/Python/main.py)
 
 ## [8.0] - 2021-07-23
@@ -84,7 +84,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 - Greedy Algorithm
   - [Greedy-algorithm](Algorithms/Greedy-Algorithm) subdirectory
     - [Python](Algorithms/Greedy-Algorithm/Python) subdirectory
-    - Python implementation of *arraysum* function in
+    - Python implementation of *get_approximation* function in
       [main.py](Algorithms/Greedy-Algorithm/Python/main.py)
 
 ## [7.1] - 2021-07-23
@@ -112,7 +112,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 - Dijkstra's Algorithm
   - [Dijkstras-algorithm](Algorithms/Dijkstras-Algorithm) subdirectory
     - [Python](Algorithms/Dijkstras-Algorithm/Python) subdirectory
-    - Python implementation of *arraysum* function in
+    - Python implementation of *dijkstras_algorithm* function in
       [main.py](Algorithms/Dijkstras-Algorithm/Python/main.py)
 
 ## [6.0] - 2021-06-24
@@ -134,7 +134,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 - Breadth-first search algorithm
   - [Breadth-first-Search](Algorithms/Breadth-first-Search) subdirectory
     - [Python](Algorithms/Breadth-first-Search/Python) subdirectory
-    - Python implementation of *arraysum* function in
+    - Python implementation of *breadth_first_search* function in
       [main.py](Algorithms/Breadth-first-Search/Python/main.py)
 
 ## [5.0] - 2021-06-23
