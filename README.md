@@ -185,7 +185,7 @@ List of algorithms implemented
 | -------------------- | ------ | ----  | --- |
 | Binary Search        | ✔      | ✔    | ✖   |
 | Selection Sort       | ✔      | ✔    | ✖   |
-| Recursion            | ✔      | ✖    | ✖   |
+| Recursion            | ✔      | ✔    | ✖   |
 | Divide and Conquer   | ✔      | ✖    | ✖   |
 | Quick Sort           | ✔      | ✖    | ✖   |
 | Breadth-first Search | ✔      | ✖    | ✖   |
