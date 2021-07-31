@@ -13,11 +13,31 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
     **Bloom Filter, Binary Search Tree, Depth-First Search, All-Pairs**
     **Shortest Path, Prim’s Algorithm**
 - Complete the implementation in *Java* for
-  **Divide and Conquer, Quick Sort,**
-  **Dijkstra's Algorithm, Greedy Algorithm, Heap Sort**
+  **Quick Sort, Dijkstra's Algorithm, Greedy Algorithm, Heap Sort**
 - Complete the implementation in *C* for
   **Binary Search, Selection Sort, Recursion, Divide and Conquer, Quick Sort,**
   **Dijkstra's Algorithm, Greedy Algorithm, Heap Sort**
+
+## [9.5] - 2021-07-31
+
+### Removed
+
+- *Divide and Conquer* from [Unreleased](#unreleased) section's algorithm list
+  of *Java implementation* in [Changelog]
+
+### Changed
+
+- *Project Status* for
+  [Divide-and-Conquer](Algorithms/Divide-and-Conquer/Java/Main.java)
+  implementation in *Java* in [Readme]
+
+### Added
+
+- Divide and Conquer
+  - [Divide-and-Conquer](Algorithms/Divide-and-Conquer) subdirectory
+    - [Java](Algorithms/Divide-and-Conquer/Java) subdirectory
+    - Java implementation of *SelectionSort* class in
+      [Main.java](Algorithms/Divide-and-Conquer/Java/Main.java)
 
 ## [9.4] - 2021-07-31
 
@@ -365,7 +385,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 - [GitAttributes](.gitattributes) file
 
-[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v9.4...HEAD
+[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v9.5...HEAD
+[9.5]: https://github.com/KumarjitDas/Algorithms/compare/v9.4...v9.5
 [9.4]: https://github.com/KumarjitDas/Algorithms/compare/v9.3...v9.4
 [9.3]: https://github.com/KumarjitDas/Algorithms/compare/v9.2...v9.3
 [9.2]: https://github.com/KumarjitDas/Algorithms/compare/v9.1...v9.2
