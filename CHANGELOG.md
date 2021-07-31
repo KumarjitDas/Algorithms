@@ -13,11 +13,37 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
     **Bloom Filter, Binary Search Tree, Depth-First Search, All-Pairs**
     **Shortest Path, Prim’s Algorithm**
 - Complete the implementation in *Java* for
-  **Recursion, Divide and Conquer, Quick Sort,**
+  **Divide and Conquer, Quick Sort,**
   **Dijkstra's Algorithm, Greedy Algorithm, Heap Sort**
 - Complete the implementation in *C* for
   **Binary Search, Selection Sort, Recursion, Divide and Conquer, Quick Sort,**
   **Dijkstra's Algorithm, Greedy Algorithm, Heap Sort**
+
+## [9.4] - 2021-07-31
+
+### Removed
+
+- *Recursion* from [Unreleased](#unreleased) section's algorithm list of
+  *Java implementation* in [Changelog]
+
+### Changed
+
+- *Project Status* for [Recursion](Algorithms/Recursion/Java) implementation
+  in *Java* in [Readme]
+
+### Fixed
+
+- Version number in [Changelog] (*10.0 to 9.3*)
+
+### Added
+
+- Recursion algorithm - *countdown*, *factorial* function
+  - [Recursion](Algorithms/Recursion) subdirectory
+    - [Java](Algorithms/Recursion/Java) subdirectory
+    - Java implementation of *countdown* function in
+      [Countdown.java](Algorithms/Recursion/Java/Countdown.java)
+    - Java implementation of *factorial* function in
+      [Factorial.java](Algorithms/Recursion/Java/Factorial.java)
 
 ## [9.3] - 2021-07-26
 
@@ -339,7 +365,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 - [GitAttributes](.gitattributes) file
 
-[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v9.3...HEAD
+[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v9.4...HEAD
+[9.4]: https://github.com/KumarjitDas/Algorithms/compare/v9.3...v9.4
 [9.3]: https://github.com/KumarjitDas/Algorithms/compare/v9.2...v9.3
 [9.2]: https://github.com/KumarjitDas/Algorithms/compare/v9.1...v9.2
 [9.1]: https://github.com/KumarjitDas/Algorithms/compare/v9.0...v9.1
