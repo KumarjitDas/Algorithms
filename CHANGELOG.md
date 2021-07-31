@@ -19,7 +19,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
   **Binary Search, Selection Sort, Recursion, Divide and Conquer, Quick Sort,**
   **Dijkstra's Algorithm, Greedy Algorithm, Heap Sort**
 
-## [10.0] - 2021-07-26
+## [9.3] - 2021-07-26
 
 ### Removed
 
@@ -339,8 +339,8 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.1.html).
 
 - [GitAttributes](.gitattributes) file
 
-[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v10.0...HEAD
-[10.0]: https://github.com/KumarjitDas/Algorithms/compare/v9.2...v10.0
+[Unreleased]: https://github.com/KumarjitDas/Algorithms/compare/v9.3...HEAD
+[9.3]: https://github.com/KumarjitDas/Algorithms/compare/v9.2...v9.3
 [9.2]: https://github.com/KumarjitDas/Algorithms/compare/v9.1...v9.2
 [9.1]: https://github.com/KumarjitDas/Algorithms/compare/v9.0...v9.1
 [9.0]: https://github.com/KumarjitDas/Algorithms/compare/v8.0...v9.0
